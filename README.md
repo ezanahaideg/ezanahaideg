@@ -1,6 +1,3 @@
-
-<img align="center" alt="Coding" width="480" src="![Github profile](https://github.com/ezanahaideg/ezanahaideg/assets/64312227/1cf93c03-d49c-4127-af98-8894fa210c09)">
-
 ![Github profile](https://github.com/ezanahaideg/ezanahaideg/assets/64312227/1cf93c03-d49c-4127-af98-8894fa210c09)
 
 
