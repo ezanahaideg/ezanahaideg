@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/ezanahaideg" target="blank"><img src="https://img.shields.io/twitter/follow/ezanahaideg?logo=twitter&style=for-the-badge" alt="ezanahaideg" /></a> </p>
 
-- 🔭 I’m currently working on [HuluCares](github.com/hulucares)
+- 🔭 I’m currently working on [HuluCares](https://www.hulucares.com/) & [HuluFund](https://hulufund.vercel.app/)
 
 - 🌱 I’m currently learning **AWS Solutions Architect.**
 
