@@ -1,7 +1,13 @@
-![Github profile](https://github.com/ezanahaideg/ezanahaideg/assets/64312227/b58da4e1-0a0e-4bc5-afc3-7e4921cede5a)
+
+<img align="center" alt="Coding" width="480" src="![Github profile](https://github.com/ezanahaideg/ezanahaideg/assets/64312227/1cf93c03-d49c-4127-af98-8894fa210c09)">
+
+![Github profile](https://github.com/ezanahaideg/ezanahaideg/assets/64312227/1cf93c03-d49c-4127-af98-8894fa210c09)
+
 
 <h1 align="center">Hello world, I'm Ezana Haileselassie</h1>
 <h3 align="center">A passionate UI/UX designer & frontend developer from Ethiopia</h3>
+
+<img align="right" alt="Coding" width="333" src="https://i.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezanahaideg&label=Profile%20views&color=0e75b6&style=flat" alt="ezanahaideg" /> </p>
 
